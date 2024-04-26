@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=7000&pause=1000&color=F7F7F7&random=false&width=435&lines=Olá,+eu+sou+o+Pedro+Dias+,+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=7000&pause=1000&color=F7F7F7&random=false&width=435&lines=Olá,+eu+sou+o+Pedro+Dias+,+Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ## 🙋‍♂️ Sobre mim
 - Estudo Análise e Desenvolvimento de Sistemas via EAD - Tecnólogo - na Universidade Santa Cecília (UNISANTA)
 - Meu foco atualmente é me aprofundar ainda mais em Java e melhorar meus conhecimentos de desenvolvimento em Backend
 
-# 🛠️ Tecnologias e Ferramentas que utilizo
+## 🛠️ Tecnologias e Ferramentas que utilizo
 > **Note:** **Mais** utilizada até a **Menos** utilizada
 
 <div style="display: inline_block"><br>
@@ -24,8 +24,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devpedro-dias&layout=compact&theme=transparent"/>
 </div>
 
-# 📲 Contato
+## 📲 Contato
 <div>
-  [![E-mail](https://img.shields.io/badge/-Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&color:FFF))](mailto:pedrocorchogdev@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white&color:FFF)](https://www.linkedin.com/in/pedro-corchog)
+  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href = "mailto:pedrocorchogdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
