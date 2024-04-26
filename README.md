@@ -4,8 +4,14 @@
 - Estudo Análise e Desenvolvimento de Sistemas via EAD - Tecnólogo - na Universidade Santa Cecília (UNISANTA)
 - Meu foco atualmente é me aprofundar ainda mais em Java e melhorar meus conhecimentos de desenvolvimento em Backend
 
+## 🧠 Soft Skills
+- Comunicação Assertiva e Escuta Ativa
+- Trabalho em equipe
+- Gerenciamento de tempo
+- Foco
+
 ## 🛠️ Tecnologias e Ferramentas que utilizo
-> **Note:** **Mais** utilizada até a **Menos** utilizada
+> **Observação:** **Mais** utilizada até a **Menos** utilizada
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" alt="Pedro-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
