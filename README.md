@@ -6,7 +6,7 @@
 
 🎓 Cursando Análise e Desenvolvimento de Sistemas - EAD - Tecnólogo - na Universidade Santa Cecília (UNISANTA).
 
-👨‍💻 Meu foco atualmente é me aprofundar ainda mais em Backend e melhorar meus conhecimentos de desenvolvimento Full Stack, para que tenha um conhecimento mínimo e consiga criar, estruturar e integrar projetos futuros.
+👨‍💻 Tenho como objetivo me consolidar como Desenvolvedor Full Stack, com domínio técnico para criar, estruturar e integrar projetos escaláveis com qualidade e eficiência.
 
 <hr />
 
