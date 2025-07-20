@@ -21,11 +21,11 @@
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,typescript,javascript,jest,tailwind,figma,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,react,nextjs,vite,typescript,javascript,jest,tailwind,figma,angular)](https://skillicons.dev)
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,postgresql,mongodb,docker,prisma,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,nodejs,express,java,spring,postgresql,docker,prisma,jest)](https://skillicons.dev)
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
